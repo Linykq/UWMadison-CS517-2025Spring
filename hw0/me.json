@@ -1,0 +1,10 @@
+{
+    "name": {
+        "first":"Ethan",
+        "last": "Lin"
+    },
+    "fromWisconsin": false,
+    "numCredits": 19,
+    "major": "Computer Science",
+    "interests": ["Programming", "Photography", "Video Games", "Hiking"]
+}
